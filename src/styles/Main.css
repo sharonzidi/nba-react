@@ -1,0 +1,18 @@
+.player {
+    display: flex;
+    width: 750px;
+    height: 610px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #ccc;
+    box-shadow: 5px 10px 10px #888;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.main {
+    margin-top: 30px;
+}
+
